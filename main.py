@@ -1,5 +1,5 @@
 # calculator
-# version 1.3
+# version 1.0
 # created by zvfaatl
  
 while True:  # infinite cycle input for data
